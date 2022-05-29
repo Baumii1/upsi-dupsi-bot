@@ -9,7 +9,7 @@ const { MessageAttachment } = require('discord.js')
 const client = new Discord.Client()
 
 
-client.login(process.env.TOKEN);
+client.login("ODIxODcyNTAyOTMzNTUzMTU0.GJmPf2.wFlk450DzLoafAbzgV8roDIbSEUxq1q_khJrwc");
 
 
 client.on("ready", () => {
